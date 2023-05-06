@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\TTCN\An_Chuong8\obj\Debug\An_Chuong8.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\TTCN\An_Chuong8\obj\Debug\An_Chuong8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\TTCN\An_Chuong8\bin\Debug\An_Chuong8.exe.config
+C:\Users\Lenovo\Documents\TTCN\An_Chuong8\bin\Debug\An_Chuong8.exe
+C:\Users\Lenovo\Documents\TTCN\An_Chuong8\bin\Debug\An_Chuong8.pdb
+C:\Users\Lenovo\Documents\TTCN\An_Chuong8\obj\Debug\An_Chuong8.exe
+C:\Users\Lenovo\Documents\TTCN\An_Chuong8\obj\Debug\An_Chuong8.pdb
