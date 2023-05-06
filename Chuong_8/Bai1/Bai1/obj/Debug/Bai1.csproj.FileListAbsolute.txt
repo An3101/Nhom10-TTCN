@@ -1,0 +1,2 @@
+D:\TTCSN\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\TTCSN\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
